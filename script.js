@@ -14,3 +14,4 @@ setInterval(() => {
     imgPage++
   }
 }, 4000)
+twemoji.parse(document.body)
