@@ -1,7 +1,7 @@
 let images = [
   'https://cdn.discordapp.com/attachments/990246398190563348/990261647920746586/Unknown_3.gif',
-  'https://cdn.discordapp.com/attachments/882156919526133773/990305239880048771/IMG_0864_2.png',
-  'https://cdn.discordapp.com/attachments/882156919526133773/990305240295276574/IMG_0852.png'
+  'https://cdn.discordapp.com/attachments/965515151795167232/990464577592500265/711.png',
+  'https://cdn.discordapp.com/attachments/965515151795167232/990462466192470016/710.png'
 ]
 let imgPage = 0
 setInterval(() => {
